@@ -1,0 +1,13 @@
+#ifndef _DEFINES_H_
+#define _DEFINES_H_
+
+#define CHOICE_ERROR 1
+#define ALLOCATE_ERROR 2
+#define STACK_OVERFLOW_ERROR 3
+#define EMPTY_STACK_ERROR 4
+#define STACK_SIZE 1001
+#define _GNU_SOURCE
+#define BILLION 1000000000
+
+
+#endif
